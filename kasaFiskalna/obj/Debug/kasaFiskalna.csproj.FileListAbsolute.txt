@@ -1,0 +1,3 @@
+C:\Users\local\Desktop\kasaFiskalna\kasaFiskalna\bin\Debug\kasaFiskalna.exe.config
+C:\Users\local\Desktop\kasaFiskalna\kasaFiskalna\obj\Debug\kasaFiskalna.csprojResolveAssemblyReference.cache
+C:\Users\local\Desktop\kasaFiskalna\biblioteka\bin\Debug\kasaFiskalna.exe.config
