@@ -14,14 +14,26 @@ namespace biblioteka
         {
         }
 
-        public Czasopismo(int numer)
+        public Czasopismo(int numer) //nie wiem czy to potrzebne, tego nie ma w poleceniu
         {
             this.numer = numer;
         }
 
-        protected internal void WypiszInfo()
+        //konstruktor parametryczny 
+        public Czasopismo(int numer, string tytuł, int id, string wydawnictwo, int rokWydania)
+            : base(tytuł, id, wydawnictwo, rokWydania)
         {
-            Console.WriteLine("Numer czasopisma: {0}", numer);
+            this.numer = numer;
+        }
+
+        //brak override
+        public override void WypiszInfo()
+        {
+            Console.WriteLine("Tytuł: {0}", tytul);
+            Console.WriteLine("Numer: {0}", numer);
+            Console.WriteLine("Nr katalogowy: {0}", id);
+            Console.WriteLine("Wydawnictwo: {0}", wydawnictwo);
+            Console.WriteLine("Rok wydaniwa: {0}", rokWydania);
         }
     }
 }

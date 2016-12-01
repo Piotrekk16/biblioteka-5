@@ -1,3 +1,9 @@
 C:\Users\local\Desktop\kasaFiskalna\biblioteka\bin\Debug\kasaFiskalna.exe.config
 C:\Users\local\Desktop\kasaFiskalna\kasaFiskalna\bin\Debug\kasaFiskalna.exe.config
 C:\Users\local\Desktop\biblioteka\kasaFiskalna\bin\Debug\kasaFiskalna.exe.config
+C:\Users\Piotrek\Desktop\Cw7\12\biblioteka-master\kasaFiskalna\bin\Debug\kasaFiskalna.exe.config
+C:\Users\Piotrek\Desktop\Cw7\12\biblioteka-master\kasaFiskalna\obj\Debug\biblioteka.csprojResolveAssemblyReference.cache
+C:\Users\Piotrek\Desktop\Cw7\12\biblioteka-master\kasaFiskalna\bin\Debug\kasaFiskalna.exe
+C:\Users\Piotrek\Desktop\Cw7\12\biblioteka-master\kasaFiskalna\bin\Debug\kasaFiskalna.pdb
+C:\Users\Piotrek\Desktop\Cw7\12\biblioteka-master\kasaFiskalna\obj\Debug\kasaFiskalna.exe
+C:\Users\Piotrek\Desktop\Cw7\12\biblioteka-master\kasaFiskalna\obj\Debug\kasaFiskalna.pdb

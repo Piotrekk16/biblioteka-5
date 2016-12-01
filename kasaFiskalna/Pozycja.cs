@@ -27,5 +27,17 @@ namespace biblioteka
         }
 
         abstract public void WypiszInfo();
+
+        //metoda pomocnicza do wyszukania po tytule
+        public string PobierzTytul()
+        {
+            return tytul;
+        }
+
+        //metoda pomocnicza do wyszukania po id
+        public int PobierzId()
+        {
+            return id;
+        }
     }
 }
